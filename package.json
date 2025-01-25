@@ -1,0 +1,16 @@
+{
+  "name": "product-list-with-cart-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the Product list with cart coding challenge](./preview.jpg)",
+  "main": "main.js",
+  "scripts": {
+  
+    "test": "echo \"Running tests...\" && node test.js",
+    "start-dev" : "npx serve",
+    "start-server" : "npx json-server data.json"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
